@@ -7,7 +7,7 @@
                     Kpakugu Roundabout Adjacent Supreme Water, Minna Niger State Nigeria.<br>
                     No.34 Unity Road Opposite GT Bank, Ilorin Kwara State Nigeria.<br>
                     Phone: +234 818 496 7181<br>
-                    Email: info@artlab.ng<br>
+                    Email: artlab.ng@gmail.com<br>
                 </p>
             </div>
             <div class="col-md-4">
@@ -17,8 +17,8 @@
                 <p> <a href="products"> Products ( What we have done )</a></p>
                 <p> <a href="team"> Team ( Meet the Team )</a></p> 
                 <p> <a href="contact"> Contact ( Feel free to contact )</a></p>
-                <p> <a href="#"> Privacy Policy</a></p>
-                <p> <a href="#"> Term of use</a></p>
+                <p> <a href="privacypolicy"> Privacy Policy</a></p>
+                <p> <a href="term"> Term of use</a></p>
             </div>
             <div class="col-md-4">
             <h3 style="color: black;"><i class="fa fa-heart"></i> Socialize</h3>

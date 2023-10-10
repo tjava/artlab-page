@@ -26,7 +26,7 @@
                     <p class="block-author"> Kpakugu roundabout Adjacent Supreme water,</p>
                     <p>Minna Niger State Nigeria.</p>
                     <p>WhatsApp: +234 818 496 7181</p>
-                    <em class="block-author">Email: info@artlab.ng </em> <br>
+                    <em class="block-author">Email: artlab.ng@gmail.com </em> <br>
                     <br>
                 </div>
                 <div class="col-sm-8 col-md-8">
